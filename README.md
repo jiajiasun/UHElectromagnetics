@@ -1,2 +1,2 @@
 # UHElectromagnetics
- Jupyer Notebooks on EM modeling that helps students understant the physics involved in various EM surveys
+ Jupyer Notebooks on EM modeling that helps undergraduate students understand the physics involved in various EM surveys. 
